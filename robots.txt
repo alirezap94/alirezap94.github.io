@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://alirezap94.github.io/sitemap.xml
